@@ -30,7 +30,7 @@ video {
   width: 100%;
   max-width: 500px;
   flex-wrap: wrap;
-  background: rgba(26, 26, 26, 0.9);
+  background: #1a1a1a;
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   transform: translateY(150%);
